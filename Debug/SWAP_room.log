@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Methods.cpp
+v:\code\swap_room\swap_room\methods.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  SWAP_room.vcxproj -> V:\Code\Swap_room\Debug\SWAP_room.exe
